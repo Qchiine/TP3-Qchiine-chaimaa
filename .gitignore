@@ -1,0 +1,19 @@
+target/
+*.class
+*.jar
+*.war
+*.log
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.classpath
+.project
+.settings/
+.vscode/
+
+# H2 base de donnees sur disque
+*.mv.db
+*.trace.db
